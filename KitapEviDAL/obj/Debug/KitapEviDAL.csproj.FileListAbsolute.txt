@@ -1,0 +1,9 @@
+C:\Users\ISKUR\source\repos\KitapEvim_2022\KitapEviDAL\bin\Debug\KitapEviDAL.dll
+C:\Users\ISKUR\source\repos\KitapEvim_2022\KitapEviDAL\bin\Debug\KitapEviDAL.pdb
+C:\Users\ISKUR\source\repos\KitapEvim_2022\KitapEviDAL\bin\Debug\KitapEviEntity.dll
+C:\Users\ISKUR\source\repos\KitapEvim_2022\KitapEviDAL\bin\Debug\KitapEviEntity.pdb
+C:\Users\ISKUR\source\repos\KitapEvim_2022\KitapEviDAL\obj\Debug\KitapEviDAL.csproj.AssemblyReference.cache
+C:\Users\ISKUR\source\repos\KitapEvim_2022\KitapEviDAL\obj\Debug\KitapEviDAL.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\source\repos\KitapEvim_2022\KitapEviDAL\obj\Debug\KitapEviDAL.csproj.CopyComplete
+C:\Users\ISKUR\source\repos\KitapEvim_2022\KitapEviDAL\obj\Debug\KitapEviDAL.dll
+C:\Users\ISKUR\source\repos\KitapEvim_2022\KitapEviDAL\obj\Debug\KitapEviDAL.pdb

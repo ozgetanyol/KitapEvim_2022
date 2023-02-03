@@ -1,0 +1,6 @@
+C:\Users\ISKUR\source\repos\KitapEvim_2022\KitapeEviEntity\bin\Debug\KitapeEviEntity.dll
+C:\Users\ISKUR\source\repos\KitapEvim_2022\KitapeEviEntity\bin\Debug\KitapeEviEntity.pdb
+C:\Users\ISKUR\source\repos\KitapEvim_2022\KitapeEviEntity\obj\Debug\KitapeEviEntity.csproj.AssemblyReference.cache
+C:\Users\ISKUR\source\repos\KitapEvim_2022\KitapeEviEntity\obj\Debug\KitapeEviEntity.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\source\repos\KitapEvim_2022\KitapeEviEntity\obj\Debug\KitapeEviEntity.dll
+C:\Users\ISKUR\source\repos\KitapEvim_2022\KitapeEviEntity\obj\Debug\KitapeEviEntity.pdb

@@ -1,0 +1,10 @@
+C:\Users\ISKUR\source\repos\KitapEvim_2022\KitapEvim_2022\bin\Debug\KitapEvim_2022.exe.config
+C:\Users\ISKUR\source\repos\KitapEvim_2022\KitapEvim_2022\bin\Debug\KitapEvim_2022.exe
+C:\Users\ISKUR\source\repos\KitapEvim_2022\KitapEvim_2022\bin\Debug\KitapEvim_2022.pdb
+C:\Users\ISKUR\source\repos\KitapEvim_2022\KitapEvim_2022\obj\Debug\KitapEvim_2022.csproj.AssemblyReference.cache
+C:\Users\ISKUR\source\repos\KitapEvim_2022\KitapEvim_2022\obj\Debug\KitapEvim_2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\ISKUR\source\repos\KitapEvim_2022\KitapEvim_2022\obj\Debug\KitapEvim_2022.Properties.Resources.resources
+C:\Users\ISKUR\source\repos\KitapEvim_2022\KitapEvim_2022\obj\Debug\KitapEvim_2022.csproj.GenerateResource.cache
+C:\Users\ISKUR\source\repos\KitapEvim_2022\KitapEvim_2022\obj\Debug\KitapEvim_2022.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\source\repos\KitapEvim_2022\KitapEvim_2022\obj\Debug\KitapEvim_2022.exe
+C:\Users\ISKUR\source\repos\KitapEvim_2022\KitapEvim_2022\obj\Debug\KitapEvim_2022.pdb
